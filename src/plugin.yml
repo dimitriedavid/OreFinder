@@ -1,0 +1,10 @@
+name: OreFinder # the plugins name as it should appear in the plugin list /pl
+version: 1.0 # the plugin's version
+author: Dimitrie David
+main: ro.dimitriedavid.orefinder.Main
+api-version: 1.19 # the version of the API you want to use, required starting with 1.13
+
+commands:
+  orefinder:
+    usage: /orefinder
+    description: Shows a list of all orefinders craftable

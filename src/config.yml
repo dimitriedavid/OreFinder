@@ -1,0 +1,2 @@
+reuse_interval: 1000 # in milliseconds
+search_radius: 10 # in blocks
